@@ -1,2 +1,2 @@
-*.php linguist-detectable=true
-*.php linguist-language=php
+*.html linguist-vendored
+css/* linguist-vendored
